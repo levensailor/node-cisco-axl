@@ -1,0 +1,33 @@
+{
+  "author": {
+    "name": "Jeff Levensailor",
+    "email": "jeff@levensailor.com",
+    "url": "https://github.com/levensailor"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+  },
+  "deprecated": false,
+  "description": "Simple XML to JavaScript object converter.",
+  "devDependencies": {
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "homepage": "https://github.com/levensailor/node-cisco-axl",
+  "keywords": [
+    "xml",
+    "json"
+  ],
+  "license": "MIT",
+  "main": "./lib/axljs",
+  "name": "axljs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levensailor/node-cisco-axl.git"
+  },
+  "version": "0.1"
+}
