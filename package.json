@@ -6,11 +6,11 @@
   },
   "bundleDependencies": false,
   "dependencies": {
+    "lodash": "^4.17.5"
   },
   "deprecated": false,
   "description": "Simple XML to JavaScript object converter.",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "directories": {
     "lib": "./lib"
   },
@@ -23,11 +23,11 @@
     "json"
   ],
   "license": "MIT",
-  "main": "./lib/axljs",
-  "name": "axljs",
+  "main": "index.js",
+  "name": "node-cisco-axl",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/levensailor/node-cisco-axl.git"
   },
-  "version": "0.1"
+  "version": "0.0.1"
 }
