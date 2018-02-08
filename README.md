@@ -10,8 +10,7 @@ The goal of this project is to make it easier for people to use AXL, focusing on
 Installation
 ============
 
-Simplest way to install `node-cisco-axl` is to use [npm](http://npmjs.org), just `npm
-install node-cisco-axl` which will download node-cisco-axl and all dependencies.
+`npm install node-cisco-axl`
 
 Usage
 =====
