@@ -36,6 +36,8 @@ axl.listTransPattern('9109200040')
 });
 ```
 
+**1.0.1 update**: Now parses and returns JSON object instead of XML!
+
 Methods
 =====
 
