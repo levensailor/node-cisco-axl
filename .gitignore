@@ -1,0 +1,11 @@
+**/dist/
+.DS_Store
+.idea
+*.log
+*.conf
+/node_modules
+*.env
+npm-debug*
+packages/**/es/*
+packages/**/cjs/*
+dean.env
