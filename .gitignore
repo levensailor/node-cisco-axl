@@ -8,4 +8,3 @@
 npm-debug*
 packages/**/es/*
 packages/**/cjs/*
-dean.env
