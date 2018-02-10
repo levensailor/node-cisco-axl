@@ -12,7 +12,7 @@
     "xml2json": "^0.11.0"
   },
   "deprecated": false,
-  "description": "Simple XML to JavaScript object converter.",
+  "description": "Easy Node SDK for Cisco Administrative XML",
   "devDependencies": {},
   "directories": {
     "lib": "./lib"
@@ -32,5 +32,5 @@
     "type": "git",
     "url": "git+https://github.com/levensailor/node-cisco-axl.git"
   },
-  "version": "1.0.2"
+  "version": "1.0.3"
 }
