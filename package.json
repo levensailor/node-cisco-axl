@@ -22,8 +22,12 @@
   ],
   "homepage": "https://github.com/levensailor/node-cisco-axl",
   "keywords": [
+    "axl",
+    "cucm",
     "xml",
-    "json"
+    "json",
+    "soap",
+    "cisco"
   ],
   "license": "MIT",
   "main": "index.js",
@@ -32,5 +36,5 @@
     "type": "git",
     "url": "git+https://github.com/levensailor/node-cisco-axl.git"
   },
-  "version": "1.0.3"
+  "version": "1.0.4"
 }
