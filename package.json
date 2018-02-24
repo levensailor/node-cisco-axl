@@ -4,7 +4,15 @@
     "email": "jeff@levensailor.com",
     "url": "https://github.com/levensailor"
   },
-  "bundleDependencies": false,
+  "contributors": [
+    { "name" : "Sam Womack",
+      "url" : "https://github.com/drkchiloll"
+    }
+  ],
+  "bugs": {
+    "url" : "https://github.com/levensailor/node-cisco-axl/issues"
+  },
+  "bundleDependencies": [],
   "dependencies": {
     "axios": "^0.17.1",
     "https": "^1.0.0",
@@ -12,7 +20,7 @@
     "xml2json": "^0.11.0"
   },
   "deprecated": false,
-  "description": "Easy Node SDK for Cisco Administrative XML",
+  "description": "Easy Cisco AXL SDK for Node JS",
   "devDependencies": {},
   "directories": {
     "lib": "./lib"
@@ -27,7 +35,8 @@
     "xml",
     "json",
     "soap",
-    "cisco"
+    "cisco",
+    "callmanager"
   ],
   "license": "MIT",
   "main": "index.js",
@@ -36,5 +45,5 @@
     "type": "git",
     "url": "git+https://github.com/levensailor/node-cisco-axl.git"
   },
-  "version": "1.0.4"
+  "version": "1.0.7"
 }
