@@ -5,12 +5,13 @@
     "url": "https://github.com/levensailor"
   },
   "contributors": [
-    { "name" : "Sam Womack",
-      "url" : "https://github.com/drkchiloll"
+    {
+      "name": "Sam Womack",
+      "url": "https://github.com/drkchiloll"
     }
   ],
   "bugs": {
-    "url" : "https://github.com/levensailor/node-cisco-axl/issues"
+    "url": "https://github.com/levensailor/node-cisco-axl/issues"
   },
   "bundleDependencies": [],
   "dependencies": {
@@ -45,5 +46,5 @@
     "type": "git",
     "url": "git+https://github.com/levensailor/node-cisco-axl.git"
   },
-  "version": "1.0.7"
+  "version": "1.0.8"
 }
